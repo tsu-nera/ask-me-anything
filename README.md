@@ -20,8 +20,4 @@ StackoverFlowやTeratailは、フリーでオープンですが、
 
 [MENTA](https://menta.work/plan/801)やってます。が、手数料かかるので、MENTA経由でここにきたひとでなければMENTAは推奨していません。
 
-## チャット
-
-Slackによるチャットも用意しています。登録は、[コチラ](https://join.slack.com/t/tsu-nera-ama/shared_invite/enQtNTgzNDM3MTQ0NjYzLWE3MWE0MjliNTM4MGEzN2JmMWFkYTc1YmQ4ZjRiYWJkMzBkOTBjZmRlZjg1ZmRkNTJhNDE1NGViNDZkZmFiNjU)
-
 よろしくおねがいします。
