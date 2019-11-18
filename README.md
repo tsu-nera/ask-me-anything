@@ -20,4 +20,6 @@ StackoverFlowやTeratailは、フリーでオープンですが、
 
 [MENTA](https://menta.work/plan/801)やってます。が、手数料かかるので、MENTA経由でここにきたひとでなければMENTAは推奨していません。
 
+PayPayによる送金でもOK。
+
 よろしくおねがいします。
